@@ -1,0 +1,6 @@
+{
+  "name": "Power Electronics Converter Simulator · Onjal Khatod (24EE10072)",
+  "description": "Interactive power electronics workbench for 1-phase and 3-phase rectifiers (HW, FW, DBR, TCR) with dynamic circuit schematics, numerical periodic steady-state time-domain solver, closed-form theory verification, harmonics spectrum, and topology documentation by Onjal Khatod (24EE10072).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
